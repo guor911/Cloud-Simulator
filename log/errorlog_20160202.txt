@@ -1,0 +1,150 @@
+************************** 2016-02-02 15:36:31 START ***************************
+
+ 2016-02-02 15:36:57:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0' encoding='UTF-8'?><request><httpCmd><method>POST</method><uri>/Custom/Music' at line 1")
+ 2016-02-02 15:36:57:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 15:36:57:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-02-02 15:36:57:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 463, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 221, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+ 2016-02-02 15:39:15:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/skl-cloud/appremote/48B1517B142C0/Custom/Music/playList','1')
+ 2016-02-02 15:39:15:  INSERT Success!
+ 2016-02-02 15:44:30:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (126)
+ 2016-02-02 15:44:30:  DELETE Success!
+ 2016-02-02 15:44:41:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0' encoding='UTF-8'?>\n<request>\n<httpCmd>\n<method>POST</method>\n<uri>/Custom/M' at line 1")
+ 2016-02-02 15:44:41:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 15:44:41:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-02-02 15:44:41:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 463, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 221, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+ 2016-02-02 15:45:39:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/skl-cloud/appremote/48B1517B142C0/Custom/Music/playList','<?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>1970/1/1 0:0:19</dateTime>
+<sessionInfo>mm0zZbWTIkbnCHpA7h3o8wQXEDdQiznWtYSm+oTEbo41smreDBUHnxRN+N6Ev+Fq7hy3I6IgnVR91+puZJYOsEn2u+NpksYG+DnpBVn0eto5Sj8Kh6NYNZqm3cM3tD/AvEQ8o2qJeaT5ax95vQAk/lF7HvzndBEArDegjG9Pjm0G2KiKfL/B+4MSlQmzL5mcgvpSzviQfcUACLSmZmprdTEV4GKH1CS40EjUanN+k3x7jrGd0mRfmbEMLXfwg1o0HAEqsuAjK05dIAWlWPiLXpm3LmG1gkNbzNe3f82cw+AEH6MWys7LbuYnO9TEIio48j6l94AfuWUMIDn30bDt6OzpQumU2dXaTmz/7irbzzEbn8X3eZeKSozWqPmNY1OrUI6GSkI7KqW7gV20pUcexg==</sessionInfo>
+</deviceGenericInfo>')
+ 2016-02-02 15:45:39:  INSERT Success!
+ 2016-02-02 15:45:45:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (127)
+ 2016-02-02 15:45:45:  DELETE Success!
+ 2016-02-02 15:46:04:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('1','<?xml version="1.0" encoding="UTF-8"?>
+<request>
+<httpCmd>
+<method>POST</method>')
+ 2016-02-02 15:46:04:  INSERT Success!
+ 2016-02-02 15:46:15:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('2','<?xml version="1.0" encoding="UTF-8"?>
+<request>
+<httpCmd>
+<method>POST</method>
+<uri>/Custom/Music/playList</uri>
+<httpVersion>HTTP/1.1</httpVersion>
+</httpCmd>
+<headers>
+<header>
+<name>Authorization</name>
+<value>Basic QWRtaW46OGYzYjFjZmNkMTNiNzE1MQ==</value></header><header><name>connection</name>
+<value>Keep-Alive</value>
+</header>
+<header>')
+ 2016-02-02 15:46:15:  INSERT Success!
+ 2016-02-02 15:46:28:  INSERT INTO `familie_test_guorui`.`t_xm************************** 2016-02-02 16:01:20 START ***************************
+
+ 2016-02-02 16:01:31:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding="UTF-8"?>\')\' at line 1')
+ 2016-02-02 16:01:31:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 16:01:31:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-02-02 16:01:31:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 463, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 222, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-02-02 16:06:05 START ***************************
+
+ 2016-02-02 16:06:11:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'UTF-8"?>\')\' at line 1')
+ 2016-02-02 16:06:11:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 16:06:11:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-02-02 16:06:11:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 463, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 222, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-02-02 16:20:20 START ***************************
+
+ 2016-02-02 16:20:24:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('7','<?xml version=\'1.0\' encoding="UTF-8"?>')
+ 2016-02-02 16:20:24:  INSERT Success!
+************************************* END **************************************
+************************** 2016-02-02 16:20:58 START ***************************
+
+ 2016-02-02 16:21:07:  The URL address is existing. URL: 7
+ 2016-02-02 16:21:42:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding="UTF-8"?>\'\' at line 1')
+ 2016-02-02 16:21:42:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 16:21:42:  Error:in file MySQLconn.py of class ExecSQL():method geturlsqlTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 456, in addXmlDialog
+    url = execsql.geturlsql(list_id, getresult[0])
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 307, in geturlsql
+    except Exception as err:
+SQLconnError
+
+ 2016-02-02 16:21:51:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding="UTF-8"?>1\'\' at line 1')
+ 2016-02-02 16:21:51:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 16:21:51:  Error:in file MySQLconn.py of class ExecSQL():method geturlsqlTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 456, in addXmlDialog
+    url = execsql.geturlsql(list_id, getresult[0])
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 307, in geturlsql
+    except Exception as err:
+SQLconnError
+
+ 2016-02-02 16:21:59:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sdafasdf','<?xml version=\'1.0\' encoding="UTF-8"?>')
+ 2016-02-02 16:21:59:  INSERT Success!
+ 2016-02-02 16:22:30:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('9','<?xml version=\'1.0\' encoding="UTF-8"?>')
+ 2016-02-02 16:22:30:  INSERT Success!
+************************************* END **************************************
+************************** 2016-02-02 16:23:03 START ***************************
+
+ 2016-02-02 16:23:18:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding="UTF-8"?>\'\' at line 1')
+ 2016-02-02 16:23:18:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 16:23:18:  Error:in file MySQLconn.py of class ExecSQL():method geturlsqlTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 456, in addXmlDialog
+    url = execsql.geturlsql(list_id, getresult[0])
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 306, in geturlsql
+    raise SQLconnError(self.err_text+"geturlsql")
+SQLconnError
+
+ 2016-02-02 16:23:24:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('10','<?xml version=\'1.0\' encoding="UTF-8"?>')
+ 2016-02-02 16:23:24:  INSERT Success!
+ 2016-02-02 16:23:43:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0' encoding='UTF-8'?>' WHERE conf_id = '140'' at line 1")
+ 2016-02-02 16:23:43:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-02-02 16:23:43:  Error:in file MySQLconn.py of class Mysql(): method update
+ 2016-02-02 16:23:43:  Error:in file MySQLconn.py of class ExecSQL():method editSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 648, in editXmlDialog
+    execsql.editSaveDataBut(list_id, str(getlistitemid[0]), getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 239, in editSaveDataBut
+    raise SQLconnError(self.err_text+"editSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-02-02 16:25:57 START ***************************
+
+ 2016-02-02 16:26:13:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = '<?xml version=\'1.0\' encoding=\'UTF-8\'?>' WHERE conf_id = '140'
+ 2016-02-02 16:26:13:  UPDATE Success!
+************************************* END **************************************
+************************** 2016-02-02 16:38:11 START ***************************
+
+ 2016-02-02 16:38:15:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('1','http://webpy.org/cookbook/index.zh-cn')
+ 2016-02-02 16:38:15:  INSERT Success!
+ 2016-02-02 16:38:26:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('ask','http://webpy.org/cookbook/index.zh-cn')
+ 2016-02-02 16:38:26:  INSERT Success!
+************************************* END **************************************
+************************** 2016-02-02 16:49:40 START ***************************
+
+************************************* END **************************************

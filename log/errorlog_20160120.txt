@@ -1,0 +1,432 @@
+************************** 2016-01-20 10:18:57 START ***************************
+
+ 2016-01-20 10:35:38:  Web Server Started.
+ 2016-01-20 10:40:17:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:40:17:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>1970/1/1 0:4:45</dateTime>
+<sessionInfo>ZjaGMNxgTLfORPFtGkRcKLuQ8TTRAwokGNpXaN43kqEy7bjnHVjwkcQhChZbAwpsPf1ojyoHTAZ9SA5EoIj42wyc2Auea03OmzHUSnSDAuuEd4NosOGKi2nspiCtOxO1IenyZ241N2vWk4nX/LxR3HfgtmVLVm2zQdI9TG4KQR3igHkBDnCCZ4AzEkifc0za3aOUisWPzOnWySxUWqSqRZ5HCzcNTGGOuA/6tZBG9yhlJABSpqrJYmioB1XswfsDOtbU1Psu5G6pq8AZlDNyItCggDxEahKgrAlJEc2atSfO4rndLCRtV1Gpb0X5gBFxy9thGOnhPspGS8Hd+1DO0lb7eXibYw7yukAdVchIPIgJCJVuGy/bzniHhiH4kqOUwIPH2qy6tAxXGz8KDgvmcw==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:40:46:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:40:46:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>1970/1/1 0:0:22</dateTime>
+<sessionInfo>juNlJrEIOaEfQ6slSUEhJ4rKQibjfHDonylln5xT9F61/oa7qVnmHE4/eKLy+iZ/g4vV1ccvVlqBXs6+FlGXwZrSVf5EuaqIRB0EFddt7RDhQuMljmqfUrI84Dyia/WB7+DajH4ZLNlK4MiQ5MHFDHA0XJX4dTCBmaSTSopuqxOwdrjZBk9I0VsNg3ZHLR6vY7yg515DjB7y3gtLFjQgqF94g5UwgtfbB/NHOB6W2fXZIjtYU7JKCJwvOnIQyd9PlDBywJ0nxzzHb/OyOpfdoTAfuAj9KMUUMbrBJFqZvEKhWD9g66cx4P0tb8Ce5M35FdYFVdZe1qw2dkl5S3T/Vu1O8Wyzo0ahQ6mKPREDShRBLAU1Qic1GA30k9E+ba6BZhMVfPFv5yocyDRHEEoTSg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:40:49:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:41:00:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:41:00:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:22</dateTime>
+<sessionInfo>pxddq5viVeGDHvNQk8mw49SDi2r7pcNee7muQEyb1sxoQ2dGeuyEjzoom4oun8qTvJTBLTiY+2351RncQkvbQGTw/q+13dBRFx5pUgtjQxMGutefDpA0CYIdB7iuXNpEQHrmBMdRSohOYRs7tRvTtRKhWE16m3TN30PKWJMYwt2D+aVcSn+1ehPzOI+6QnN/vzivoSMR/zSx74UGl6L+KHkSlUI5b6Te+0TD1p6oNmHJv39oMwhhygRQEH27b/PU+/Wz9MftP7nl9ToQGh5WdSpd8gdJNdiXVz2TZ33Ej18HAqUNP2s7A4RgmALVltG2IcyX7xkhq3irkVaP+I0Z/c87cYinMGysOJQIPY+1oAnz6h3KmTWGAKb7VimkpV8d8fwZXmab3lO6Bt1yv5xynQ==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:41:01:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:41:11:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:41:11:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:41:13:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:41:23:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:41:23:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:41:25:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:41:35:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:41:35:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:41:36:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:41:47:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:41:47:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:41:48:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:41:59:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:41:59:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:42:00:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:42:10:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:42:10:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:42:13:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:42:23:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:42:23:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:22</dateTime>
+<sessionInfo>pxddq5viVeGDHvNQk8mw49SDi2r7pcNee7muQEyb1sxoQ2dGeuyEjzoom4oun8qTvJTBLTiY+2351RncQkvbQGTw/q+13dBRFx5pUgtjQxMGutefDpA0CYIdB7iuXNpEQHrmBMdRSohOYRs7tRvTtRKhWE16m3TN30PKWJMYwt2D+aVcSn+1ehPzOI+6QnN/vzivoSMR/zSx74UGl6L+KHkSlUI5b6Te+0TD1p6oNmHJv39oMwhhygRQEH27b/PU+/Wz9MftP7nl9ToQGh5WdSpd8gdJNdiXVz2TZ33Ej18HAqUNP2s7A4RgmALVltG2IcyX7xkhq3irkVaP+I0Z/c87cYinMGysOJQIPY+1oAnz6h3KmTWGAKb7VimkpV8d8fwZXmab3lO6Bt1yv5xynQ==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:42:25:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:42:35:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:42:35:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:42:36:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:42:47:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:42:47:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:42:49:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:42:59:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:42:59:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:43:01:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:43:11:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:43:11:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:43:13:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:43:24:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:43:24:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:43:24:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:43:35:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:43:35:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:43:37:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:43:47:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:43:47:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:43:50:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:44:00:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:44:00:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:22</dateTime>
+<sessionInfo>pxddq5viVeGDHvNQk8mw49SDi2r7pcNee7muQEyb1sxoQ2dGeuyEjzoom4oun8qTvJTBLTiY+2351RncQkvbQGTw/q+13dBRFx5pUgtjQxMGutefDpA0CYIdB7iuXNpEQHrmBMdRSohOYRs7tRvTtRKhWE16m3TN30PKWJMYwt2D+aVcSn+1ehPzOI+6QnN/vzivoSMR/zSx74UGl6L+KHkSlUI5b6Te+0TD1p6oNmHJv39oMwhhygRQEH27b/PU+/Wz9MftP7nl9ToQGh5WdSpd8gdJNdiXVz2TZ33Ej18HAqUNP2s7A4RgmALVltG2IcyX7xkhq3irkVaP+I0Z/c87cYinMGysOJQIPY+1oAnz6h3KmTWGAKb7VimkpV8d8fwZXmab3lO6Bt1yv5xynQ==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:44:02:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:44:12:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:44:12:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:44:13:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:44:24:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:44:24:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:44:26:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:44:36:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:44:36:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:44:38:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:44:48:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:44:48:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:46:15:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:46:15:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>1970/1/1 0:1:17</dateTime>
+<sessionInfo>jIXf1xfYB83efnMDNDxBwZPyf4REyIeXwsRDiEyYLJfjixFf06pi2Yn41i1LnxJwWEx/fnfOHAYRdivfGrXw4AvqvdCh86cnqyX4h1PJCtjFwfM/teB+mU9WSXoS/JhrxENP3toHMTvH89FvWbBnDUbjunC2SH23milAFky2IRUJzq7AWC04Rona4EcI6upCdDpCwlCdBAAuorzYW5O/OZyI8echFURY7EusUMzeEX+7vp1uytyQ3PUUFOnR9PPTSw6psg7sbMC9ndyAzGmVgrypw6VKOVwrzEBSmjkruYX53x7zJjSGupOjyvrXVezSKLF2lTLMxGTagdSbBCU32kMTI/jM87AusE87RgifIMsCf7kf5GZQjp3iO/lifoCbq0mznjkqhgGFJpr4TmCvNA==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:46:17:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:46:27:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:46:27:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:46:29:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:46:40:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:46:40:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:46:41:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:46:51:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:46:51:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:46:52:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:47:02:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:47:02:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:47:04:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:47:14:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:47:14:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:47:16:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:47:27:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:47:27:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:47:27:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:47:38:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:47:38:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:47:39:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:47:49:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:47:49:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:47:51:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:48:01:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:48:01:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:48:04:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:48:15:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:48:15:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:22</dateTime>
+<sessionInfo>pxddq5viVeGDHvNQk8mw49SDi2r7pcNee7muQEyb1sxoQ2dGeuyEjzoom4oun8qTvJTBLTiY+2351RncQkvbQGTw/q+13dBRFx5pUgtjQxMGutefDpA0CYIdB7iuXNpEQHrmBMdRSohOYRs7tRvTtRKhWE16m3TN30PKWJMYwt2D+aVcSn+1ehPzOI+6QnN/vzivoSMR/zSx74UGl6L+KHkSlUI5b6Te+0TD1p6oNmHJv39oMwhhygRQEH27b/PU+/Wz9MftP7nl9ToQGh5WdSpd8gdJNdiXVz2TZ33Ej18HAqUNP2s7A4RgmALVltG2IcyX7xkhq3irkVaP+I0Z/c87cYinMGysOJQIPY+1oAnz6h3KmTWGAKb7VimkpV8d8fwZXmab3lO6Bt1yv5xynQ==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:48:15:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:48:26:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:48:26:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:48:28:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:48:38:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:48:38:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:48:39:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:48:49:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:48:49:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:48:51:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:49:01:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:49:01:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:49:29:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:49:39:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:49:39:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:46</dateTime>
+<sessionInfo>rSbAdNDPcFGJzYvA+xw35XRB9QWmHs6GNrjtSegaykfjTxjbl44cNMPCUn6+Xwrtx/AtUgUp3wrQdWpPuWnSQo7QObuOJwrKYnnGjjt+0hXJ2AIfWfJWTJNGmpjhY8zb4Y5kljNUX+40YpE7i1N2K4Xmz3Xip2/vWMXQQ7w80Pxd5i6FvkzgkqRFMPLwK0OgBbrYvP8Y6vaBYwIhjwMJl9+tbhUPNaUKdYwbFYWqs96IbRF5tXlYtub2Rfnc2MjJ3v1gQBRTmwoCGu7BQmyXUn0TMNclIrBkl5Pm7dp0rNZz5HWRMyxZ+NsQ6HNSyxsyXRp+bMAqJ10TBc2N1Cd+LSj1dEnAicxTHmqBY/f59OXcaTsC6PLosEqU8/S8Cz+Fm/2GJCNJbZiR/s7ucpvOwQ==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:49:41:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:49:52:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:49:52:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:49:53:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:50:04:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:50:04:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:50:05:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:50:15:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:50:15:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:50:17:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:50:27:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:50:27:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:50:29:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:50:40:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:50:40:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:50:41:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:50:51:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:50:51:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:50:53:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:51:03:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:51:03:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:51:05:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:51:15:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:51:15:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:51:17:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:51:28:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:51:28:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:21</dateTime>
+<sessionInfo>DRQdYSm+Ll8dFefiUs31nhz3hvipmyzxxQMJBdPhHwPoRECnxRDPqDHM7V5oCvK9SU6Rkc3Lj/VtrJUzTUkGntdppNdk5N8Rge5n3ozoAsAqzO1qwkVg0JzXkXdMGDmyMXduTg8A0g6YVs2s0oCBoLjVQetuAyLOkpUlpO7lptANHmJFW6xpFFR0/kugHiqCm2IZTawKHV3E+K32Q5myz2ktlcm4ZpqC91RIOXvSQ3IPMfJppzKQt2kFC++HEBJJbDVQwBulDyrHHY3p4frDxHQPKfYZE8D3Olhp2CwY3aV0IoxADK85MNGd9aqbEw/7WSZW0P3gHua9siknKjBHL3eHinMtT1NQdGc6XpWY+Khfez7CYlf9WG0isB3GVK2WrwgsXAsQUUvxZ8MD8MQvlg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:51:28:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:51:31:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (124)
+ 2016-01-20 10:51:31:  DELETE Success!
+ 2016-01-20 10:51:39:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:51:39:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:51:40:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:51:50:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:51:50:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:51:51:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:51:53:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/sklcloud/skl-cloud/device/serverInfo/48B1517B142C2','<querySeverInfo version="1.0" xmlns="urn:skylight">
+<p2pHost>192.168.139.52</p2pHost>
+<p2pPort>8100</p2pPort>
+<upnpURI>http:192.168.139.213:8090/</upnpURI>
+<stunHost>192.168.139.53</stunHost>
+<stunPort>3478</stunPort >
+<commandSrvHost>192.168.139.54</commandSrvHost>
+<commandSrvPort>3000</commandSrvPort>
+<ResponseStatus>
+<statusCode>0</statusCode>
+<statusString>ok</statusString>
+</ResponseStatus>
+</querySeverInfo>')
+ 2016-01-20 10:51:53:  INSERT Success!
+ 2016-01-20 10:51:56:  Web Server Stoped.
+ 2016-01-20 10:51:57:  Web Server Started.
+ 2016-01-20 10:52:01:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:52:01:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>2016/1/12 16:50:20</dateTime>
+<sessionInfo>4xrhLSwOSpwBuaDPrkUCRzxt8d59IXv9RDvOcuLQeBNRiprqkXO75tiPUsHEfe1UP3uE6j4dT331tTq10iRzz594aO3LBZUtT3KG2VfWWPXcNGokapWsKEOrG6Ygzx6Wlw/6ZIstSZj4qufZvGiv6kSbhBwwSdE/wrC5/Y/gZQLc5cKFYzNtlht9teLAqjjVoAVZ4jmHbl+C/n2iAIt9tlbEQxM0BOt5l0yDPGU+ogPw1+6zPSHbLUgZ9B1TAJlZrbUClsUXkNhrMkG5SGUwGZYkkTGXzKNRT1uwmWcWFNH21PBACRRkdGpdUhbIKwZy7aFFBCahFwK5pcMUDa+aZ1bvKt0c5+yrkqiR4Rvsah5wU6nbuKdh+g1I42IFyj2Nb6F21ik+s1yYUjK6XBEkMg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:52:03:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:52:55:  URL: /sklcloud/skl-cloud/device/regist
+ 2016-01-20 10:52:55:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<deviceGenericInfo version="1.0" xmlns="urn:skylight">
+<SN>48B1517B142C2</SN><dateTime>1970/1/1 0:0:19</dateTime>
+<sessionInfo>mm0zZbWTIkbnCHpA7h3o8wQXEDdQiznWtYSm+oTEbo41smreDBUHnxRN+N6Ev+Fq7hy3I6IgnVR91+puZJYOsEn2u+NpksYG+DnpBVn0eto5Sj8Kh6NYNZqm3cM3tD/AvEQ8o2qJeaT5ax95vQAk/lF7HvzndBEArDegjG9Pjm0G2KiKfL/B+4MSlQmzL5mcgvpSzviQfcUACLSmZmprdTEV4GKH1CS40EjUanN+k3x7jrGd0mRfmbEMLXfwg1o0HAEqsuAjK05dIAWlWPiLXpm3LmG1gkNbzNe3f82cw+AEH6MWys7LbuYnO9TEIio48j6l94AfuWUMIDn30bDt6OzpQumU2dXaTmz/7irbzzEbn8X3eZeKSozWqPmNY1OrUI6GSkI7KqW7gV20pUcexg==</sessionInfo>
+</deviceGenericInfo>
+
+ 2016-01-20 10:52:57:  URL: /sklcloud/skl-cloud/device/serverInfo/48B1517B142C2
+ 2016-01-20 10:54:40:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-20 11:40:12 START ***************************
+
+************************************* END **************************************

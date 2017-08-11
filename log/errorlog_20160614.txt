@@ -1,0 +1,324 @@
+************************** 2016-06-14 13:41:47 START ***************************
+
+************************************* END **************************************
+************************** 2016-06-14 13:42:00 START ***************************
+
+ 2016-06-14 13:44:00:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('http://192.168.139.207:8080/sklcloud/skl-cloud/wechat/user/subscribe.json','')
+ 2016-06-14 13:44:00:  INSERT Success!
+ 2016-06-14 13:44:35:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (73)
+ 2016-06-14 13:44:35:  DELETE Success!
+ 2016-06-14 13:44:59:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/sklcloud/skl-cloud/wechat/user/subscribe.json','sdfsdfs')
+ 2016-06-14 13:44:59:  INSERT Success!
+ 2016-06-14 13:45:24:  Web Server Started.
+ 2016-06-14 13:45:26:  URL: /sklcloud/skl-cloud/wechat/user/subscribe.json
+ 2016-06-14 13:45:26:  REQUEST: 
+ 2016-06-14 13:45:40:  URL: /sklcloud/skl-cloud/wechat/user/subscribe.json
+ 2016-06-14 13:45:40:  REQUEST: sdaf
+ 2016-06-14 13:47:18:  The URL address is existing. URL: 123
+ 2016-06-14 13:48:52:  DELETE FROM `familie_test_guorui`.`t_xml_conf`
+ 2016-06-14 13:48:52:  DELETE Success!
+ 2016-06-14 13:51:26:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/sklcloud/skl-cloud/wechat/user/subscribe.json','{"code": "0","msg": "success","data": {}}')
+ 2016-06-14 13:51:26:  INSERT Success!
+ 2016-06-14 13:51:42:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/sklcloud/skl-cloud/wechat/user/devicelist.json','{"code": "0","msg": "success","data": {}}')
+ 2016-06-14 13:51:42:  INSERT Success!
+ 2016-06-14 13:51:52:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/sklcloud/skl-cloud/wechat/user/bindEmail.json','{"code": "0","msg": "success","data": {}}')
+ 2016-06-14 13:51:52:  INSERT Success!
+ 2016-06-14 13:52:02:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/sklcloud/skl-cloud/wechat/device/isPlay.json','{"code": "0","msg": "success","data": {}}')
+ 2016-06-14 13:52:02:  INSERT Success!
+ 2016-06-14 13:52:47:  URL: /sklcloud/skl-cloud/wechat/user/subscribe.json
+ 2016-06-14 13:52:47:  REQUEST: sdaf
+ 2016-06-14 13:53:05:  URL: /sklcloud/skl-cloud/wechat/user/subscribe.json
+ 2016-06-14 13:53:05:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:53:34:  URL: /sklcloud/skl-cloud/wechat/user/devicelist.json
+ 2016-06-14 13:53:34:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:53:45:  URL: /sklcloud/skl-cloud/wechat/user/bindEmail.json
+ 2016-06-14 13:53:45:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:53:53:  URL: /sklcloud/skl-cloud/wechat/device/isPlay.json
+ 2016-06-14 13:53:53:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:56:26:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sdfsdf','<?xml version="1.0" encoding="UTF-8"?>')
+ 2016-06-14 13:56:26:  INSERT Success!
+ 2016-06-14 13:56:53:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = '<?xml version="1.0" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.0">
+<list>
+	<file>
+		<uuid>1</uuid>
+		<fileSize>2238352</fileSize>
+		<url>/home/STE-test/Testdata/???????.mp3</url>
+		<fileName>???????</fileName>
+	</file>
+	<file>
+		<uuid>6</uuid>
+		<fileSize>1673125</fileSize>
+		<url>/home/STE-test/Testdata/?????.mp3</url>
+		<fileName>?????</fileName>
+	</file>
+	<file>
+		<uuid>7</uuid>
+		<fileSize>4225293</fileSize>
+		<url>/home/STE-test/Testdata/????.mp3</url>
+		<fileName>????</fileName>
+	</file>
+	<file>
+		<uuid>11</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/media.g711</url>
+		<fileName>media.g711</fileName>
+	</file>
+	<file>
+		<uuid>15</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music1.g711</url>
+		<fileName>music1.g711</fileName>
+	</file>
+	<file>
+		<uuid>16</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music2.g711</url>
+		<fileName>music2.g711</fileName>
+	</file>
+</list>
+	<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+	</ResponseStatus>
+</appGetFileList>' WHERE conf_id = '79'
+ 2016-06-14 13:56:53:  UPDATE Success!
+ 2016-06-14 13:57:14:  URL: /sdfsdf
+ 2016-06-14 13:57:14:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:58:07:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (79)
+ 2016-06-14 13:58:07:  DELETE Success!
+ 2016-06-14 13:58:19:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/123','<?xml version="1.0" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.0">
+<list>
+	<file>
+		<uuid>1</uuid>
+		<fileSize>2238352</fileSize>
+		<url>/home/STE-test/Testdata/???????.mp3</url>
+		<fileName>???????</fileName>
+	</file>
+	<file>
+		<uuid>6</uuid>
+		<fileSize>1673125</fileSize>
+		<url>/home/STE-test/Testdata/?????.mp3</url>
+		<fileName>?????</fileName>
+	</file>
+	<file>
+		<uuid>7</uuid>
+		<fileSize>4225293</fileSize>
+		<url>/home/STE-test/Testdata/????.mp3</url>
+		<fileName>????</fileName>
+	</file>
+	<file>
+		<uuid>11</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/media.g711</url>
+		<fileName>media.g711</fileName>
+	</file>
+	<file>
+		<uuid>15</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music1.g711</url>
+		<fileName>music1.g711</fileName>
+	</file>
+	<file>
+		<uuid>16</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music2.g711</url>
+		<fileName>music2.g711</fileName>
+	</file>
+</list>
+	<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+	</ResponseStatus>
+</appGetFileList>')
+ 2016-06-14 13:58:19:  INSERT Success!
+ 2016-06-14 13:58:28:  URL: /123
+ 2016-06-14 13:58:28:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:58:57:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = '<?xml version="1.0" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.0">
+<list>
+	<file>
+		<uuid>1</uuid>
+		<fileSize>2238352</fileSize>
+		<url>/home/STE-test/Testdata/中国.mp3</url>
+		<fileName>中国</fileName>
+	</file>
+	<file>
+		<uuid>6</uuid>
+		<fileSize>1673125</fileSize>
+		<url>/home/STE-test/Testdata/?????.mp3</url>
+		<fileName>?????</fileName>
+	</file>
+	<file>
+		<uuid>7</uuid>
+		<fileSize>4225293</fileSize>
+		<url>/home/STE-test/Testdata/????.mp3</url>
+		<fileName>????</fileName>
+	</file>
+	<file>
+		<uuid>11</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/media.g711</url>
+		<fileName>media.g711</fileName>
+	</file>
+	<file>
+		<uuid>15</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music1.g711</url>
+		<fileName>music1.g711</fileName>
+	</file>
+	<file>
+		<uuid>16</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music2.g711</url>
+		<fileName>music2.g711</fileName>
+	</file>
+</list>
+	<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+	</ResponseStatus>
+</appGetFileList>' WHERE conf_id = '80'
+ 2016-06-14 13:58:57:  UPDATE Success!
+ 2016-06-14 13:59:01:  URL: /123
+ 2016-06-14 13:59:01:  REQUEST: {"openId":"oRCGDv6E832cWk3V5liB8LcAahKA","type":"bindOne","deviceId":"gh_987b07616f39_b079ca645db42c7ac24cf13ec0b5e6d4","sn":"48B1517B142C9"}
+ 2016-06-14 13:59:59:  URL: /123
+ 2016-06-14 13:59:59:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.0">
+<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+</ResponseStatus>
+</appGetFileList>
+ 2016-06-14 14:00:23:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/456','<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+	</ResponseStatus>
+</appGetFileList>')
+ 2016-06-14 14:00:23:  INSERT Success!
+ 2016-06-14 14:00:33:  URL: /456
+ 2016-06-14 14:00:33:  REQUEST: <?xml version="1.0" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.0">
+<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+</ResponseStatus>
+</appGetFileList>
+ 2016-06-14 14:00:37:  URL: /456
+ 2016-06-14 14:01:02:  URL: /456
+ 2016-06-14 14:01:27:  URL: /456
+ 2016-06-14 14:01:38:  URL: /456
+ 2016-06-14 14:01:38:  REQUEST: 
+ 2016-06-14 14:01:54:  URL: /456
+ 2016-06-14 14:02:06:  URL: /123
+************************************* END **************************************
+************************** 2016-06-14 14:05:46 START ***************************
+
+************************************* END **************************************
+************************** 2016-06-14 14:06:50 START ***************************
+
+************************************* END **************************************
+************************** 2016-06-14 14:19:42 START ***************************
+
+************************************* END **************************************
+************************** 2016-06-14 14:19:54 START ***************************
+
+ 2016-06-14 14:23:04:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = '<?xml version="1.0" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.1">
+<list>
+	<file>
+		<uuid>1</uuid>
+		<fileSize>2238352</fileSize>
+		<url>/home/STE-test/Testdata/中国.mp3</url>
+		<fileName>中国</fileName>
+	</file>
+	<file>
+		<uuid>6</uuid>
+		<fileSize>1673125</fileSize>
+		<url>/home/STE-test/Testdata/?????.mp3</url>
+		<fileName>?????</fileName>
+	</file>
+	<file>
+		<uuid>7</uuid>
+		<fileSize>4225293</fileSize>
+		<url>/home/STE-test/Testdata/????.mp3</url>
+		<fileName>????</fileName>
+	</file>
+	<file>
+		<uuid>11</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/media.g711</url>
+		<fileName>media.g711</fileName>
+	</file>
+	<file>
+		<uuid>15</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music1.g711</url>
+		<fileName>music1.g711</fileName>
+	</file>
+	<file>
+		<uuid>16</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music2.g711</url>
+		<fileName>music2.g711</fileName>
+	</file>
+</list>
+	<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+	</ResponseStatus>
+</appGetFileList>' WHERE conf_id = '80'
+ 2016-06-14 14:23:04:  UPDATE Success!
+ 2016-06-14 14:23:25:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = '<?xml version="1.1" encoding="UTF-8"?>
+<appGetFileList xmlns="urn:skylight" version="1.1">
+<list>
+	<file>
+		<uuid>1</uuid>
+		<fileSize>2238352</fileSize>
+		<url>/home/STE-test/Testdata/中国.mp3</url>
+		<fileName>中国</fileName>
+	</file>
+	<file>
+		<uuid>6</uuid>
+		<fileSize>1673125</fileSize>
+		<url>/home/STE-test/Testdata/?????.mp3</url>
+		<fileName>?????</fileName>
+	</file>
+	<file>
+		<uuid>7</uuid>
+		<fileSize>4225293</fileSize>
+		<url>/home/STE-test/Testdata/????.mp3</url>
+		<fileName>????</fileName>
+	</file>
+	<file>
+		<uuid>11</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/media.g711</url>
+		<fileName>media.g711</fileName>
+	</file>
+	<file>
+		<uuid>15</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music1.g711</url>
+		<fileName>music1.g711</fileName>
+	</file>
+	<file>
+		<uuid>16</uuid>
+		<fileSize>2238352</fileSize>
+		<url>http://s3-ap-southeast-1.amazonaws.com/skl-developer/test1/music2.g711</url>
+		<fileName>music2.g711</fileName>
+	</file>
+</list>
+	<ResponseStatus>
+		<statusCode>0</statusCode>
+		<statusString>0</statusString>
+	</ResponseStatus>
+</appGetFileList>' WHERE conf_id = '80'
+ 2016-06-14 14:23:25:  UPDATE Success!
+ 2016-06-14 14:24:56:  Web Server Started.
+ 2016-06-14 14:25:03:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-06-14 14:28:59 START ***************************
+
+************************************* END **************************************

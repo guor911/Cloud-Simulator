@@ -1,0 +1,379 @@
+************************** 2016-01-11 09:26:33 START ***************************
+
+ 2016-01-11 09:27:25:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/123/sdaf/1234','af')
+ 2016-01-11 09:27:25:  INSERT Success!
+ 2016-01-11 09:36:35:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/device/<SN>/system/updateFirmware','')
+ 2016-01-11 09:36:35:  INSERT Success!
+ 2016-01-11 09:36:43:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = 'asdf' WHERE conf_id = '75'
+ 2016-01-11 09:36:43:  UPDATE Success!
+************************************* END **************************************
+************************** 2016-01-11 10:24:34 START ***************************
+
+ 2016-01-11 10:24:35:  Web Server Started.
+ 2016-01-11 10:24:41:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-11 10:24:57 START ***************************
+
+ 2016-01-11 10:24:58:  Web Server Started.
+ 2016-01-11 10:25:02:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-11 10:25:08 START ***************************
+
+ 2016-01-11 10:25:09:  Web Server Started.
+ 2016-01-11 10:25:13:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-11 10:25:22 START ***************************
+
+ 2016-01-11 10:25:23:  Web Server Started.
+ 2016-01-11 10:25:50:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-11 16:38:42 START ***************************
+
+ 2016-01-11 16:39:00:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode character u'\u201d' in position 151: ordinal not in range(256)
+ 2016-01-11 16:39:00:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 16:39:00:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 16:39:00:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 467, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 222, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+ 2016-01-11 16:39:10:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('d','d')
+ 2016-01-11 16:39:10:  INSERT Success!
+ 2016-01-11 16:39:19:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (71,72,76)
+ 2016-01-11 16:39:19:  DELETE Success!
+ 2016-01-11 16:39:31:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/device/48B1517B142C7/system/updateFirmware','s')
+ 2016-01-11 16:39:31:  INSERT Success!
+ 2016-01-11 16:39:41:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode character u'\u597d' in position 64: ordinal not in range(256)
+ 2016-01-11 16:39:41:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 16:39:41:  Error:in file MySQLconn.py of class Mysql(): method update
+ 2016-01-11 16:39:41:  Error:in file MySQLconn.py of class ExecSQL():method editSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 652, in editXmlDialog
+    execsql.editSaveDataBut(list_id, str(getlistitemid[0]), getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 239, in editSaveDataBut
+    raise SQLconnError(self.err_text+"editSaveDataBut")
+SQLconnError
+
+ 2016-01-11 16:42:41:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = 's' WHERE conf_id = '77'
+ 2016-01-11 16:42:41:  UPDATE Success!
+ 2016-01-11 16:42:52:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode character u'\u7684' in position 64: ordinal not in range(256)
+ 2016-01-11 16:42:52:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 16:42:52:  Error:in file MySQLconn.py of class Mysql(): method update
+ 2016-01-11 16:42:52:  Error:in file MySQLconn.py of class ExecSQL():method editSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 652, in editXmlDialog
+    execsql.editSaveDataBut(list_id, str(getlistitemid[0]), getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 239, in editSaveDataBut
+    raise SQLconnError(self.err_text+"editSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-01-11 16:55:32 START ***************************
+
+ 2016-01-11 16:55:35:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('asdf','asdf')
+ 2016-01-11 16:55:35:  INSERT Success!
+ 2016-01-11 16:55:42:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('ddfdfd','好')
+ 2016-01-11 16:55:42:  INSERT Success!
+ 2016-01-11 16:55:43:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 16:56:02 START ***************************
+
+ 2016-01-11 16:56:08:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('asdfsa','dfdsf��')
+ 2016-01-11 16:56:08:  INSERT Success!
+ 2016-01-11 16:56:08:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 17:58:13 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-11 17:59:05 START ***************************
+
+ 2016-01-11 17:59:11:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sssssssssssssssssssssssssss','sssssssssssssssssssssssssss')
+ 2016-01-11 17:59:11:  INSERT Success!
+ 2016-01-11 17:59:11:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 17:59:38 START ***************************
+
+ 2016-01-11 17:59:41:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sd','sd')
+ 2016-01-11 17:59:41:  INSERT Success!
+ 2016-01-11 17:59:41:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 18:00:02 START ***************************
+
+ 2016-01-11 18:00:05:  The URL address is existing. URL: asdf
+ 2016-01-11 18:00:06:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+ 2016-01-11 18:00:14:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (74,75,77,79,80,81)
+ 2016-01-11 18:00:14:  DELETE Success!
+ 2016-01-11 18:00:18:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sdf','sdf')
+ 2016-01-11 18:00:18:  INSERT Success!
+ 2016-01-11 18:00:25:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (82,83,84,85)
+ 2016-01-11 18:00:25:  DELETE Success!
+ 2016-01-11 18:00:33:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (70)
+ 2016-01-11 18:00:33:  DELETE Success!
+ 2016-01-11 18:00:36:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (73)
+ 2016-01-11 18:00:36:  DELETE Success!
+ 2016-01-11 18:00:39:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sd','d')
+ 2016-01-11 18:00:39:  INSERT Success!
+ 2016-01-11 18:00:44:  The URL address is existing. URL: sd
+ 2016-01-11 18:00:48:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (86)
+ 2016-01-11 18:00:48:  DELETE Success!
+ 2016-01-11 18:00:50:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sd','sd')
+ 2016-01-11 18:00:50:  INSERT Success!
+************************************* END **************************************
+************************** 2016-01-11 18:01:47 START ***************************
+
+ 2016-01-11 18:01:52:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (87)
+ 2016-01-11 18:01:52:  DELETE Success!
+ 2016-01-11 18:01:54:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sd','sd')
+ 2016-01-11 18:01:54:  INSERT Success!
+************************************* END **************************************
+************************** 2016-01-11 18:05:05 START ***************************
+
+ 2016-01-11 18:05:12:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('sdff','��')
+ 2016-01-11 18:05:12:  INSERT Success!
+ 2016-01-11 18:05:12:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 18:07:11 START ***************************
+
+ 2016-01-11 18:07:18:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode characters in position 94-96: ordinal not in range(256)
+ 2016-01-11 18:07:18:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 18:07:18:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 18:07:18:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 465, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 223, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+ 2016-01-11 18:07:49:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0xbd in position 2: incomplete multibyte sequence
+ 2016-01-11 18:07:53:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (2,88,89,90)
+ 2016-01-11 18:07:53:  DELETE Success!
+ 2016-01-11 18:08:05:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode character u'\u54c8' in position 89: ordinal not in range(256)
+ 2016-01-11 18:08:05:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 18:08:05:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 18:08:05:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 465, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 223, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+ 2016-01-11 18:09:07:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode characters in position 90-93: ordinal not in range(256)
+ 2016-01-11 18:09:07:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 18:09:07:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 18:09:07:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 465, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 223, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+ 2016-01-11 18:09:26:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('dfdfdfdfdffd','123')
+ 2016-01-11 18:09:26:  INSERT Success!
+ 2016-01-11 18:09:35:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode characters in position 98-100: ordinal not in range(256)
+ 2016-01-11 18:09:35:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 18:09:35:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 18:09:35:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 465, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 223, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-01-11 18:13:27 START ***************************
+
+ 2016-01-11 18:17:26:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('1','<?xml version="1.0" encoding="utf-8" ?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<ResponseStatus>
+<statusCode>0</statusCode>
+<reasonString>ok</ reasonString>
+</ResponseStatus>
+<userId>150321008</userId>
+<random>6F7G8H1A2B3C4D5E</random>
+</appUserLogin>
+')
+ 2016-01-11 18:17:26:  INSERT Success!
+ 2016-01-11 18:17:33:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode characters in position 85-86: ordinal not in range(256)
+ 2016-01-11 18:17:33:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 18:17:33:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 18:17:33:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 465, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 223, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-01-11 18:17:49 START ***************************
+
+ 2016-01-11 18:17:54:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode characters in position 85-87: ordinal not in range(256)
+ 2016-01-11 18:17:54:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 18:17:54:  Error:in file MySQLconn.py of class Mysql(): method insert
+ 2016-01-11 18:17:54:  Error:in file MySQLconn.py of class ExecSQL():method addSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 465, in addXmlDialog
+    execsql.addSaveDataBut(list_id, getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 223, in addSaveDataBut
+    raise SQLconnError(self.err_text+"addSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-01-11 18:30:47 START ***************************
+
+ 2016-01-11 18:30:50:  The URL address is existing. URL: d
+ 2016-01-11 18:30:50:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 4: incomplete multibyte sequence
+ 2016-01-11 18:30:57:  The URL address is existing. URL: 4
+ 2016-01-11 18:30:57:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 4: incomplete multibyte sequence
+ 2016-01-11 18:31:00:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 4: incomplete multibyte sequence
+ 2016-01-11 18:31:03:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (93,94,95)
+ 2016-01-11 18:31:03:  DELETE Success!
+************************************* END **************************************
+************************** 2016-01-11 18:31:39 START ***************************
+
+ 2016-01-11 18:31:49:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (96,97)
+ 2016-01-11 18:31:49:  DELETE Success!
+ 2016-01-11 18:31:54:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('d','d')
+ 2016-01-11 18:31:54:  INSERT Success!
+ 2016-01-11 18:31:58:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('b','b')
+ 2016-01-11 18:31:58:  INSERT Success!
+ 2016-01-11 18:32:02:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('1','1')
+ 2016-01-11 18:32:02:  INSERT Success!
+ 2016-01-11 18:32:05:  The URL address is existing. URL: 1
+ 2016-01-11 18:32:11:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('c',' cs')
+ 2016-01-11 18:32:11:  INSERT Success!
+ 2016-01-11 18:32:21:  DELETE FROM `familie_test_guorui`.`t_xml_conf` WHERE (conf_id) IN (98,99,100,101)
+ 2016-01-11 18:32:21:  DELETE Success!
+************************************* END **************************************
+************************** 2016-01-11 18:32:34 START ***************************
+
+ 2016-01-11 18:32:38:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('1','1')
+ 2016-01-11 18:32:38:  INSERT Success!
+ 2016-01-11 18:32:42:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('2','a')
+ 2016-01-11 18:32:42:  INSERT Success!
+ 2016-01-11 18:32:48:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('3','的')
+ 2016-01-11 18:32:48:  INSERT Success!
+ 2016-01-11 18:32:48:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:51:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:52:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:53:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:54:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:54:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:54:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:54:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:55:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:55:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:55:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:55:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:55:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:56:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:56:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:56:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:56:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:56:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:56:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:32:57:  Error:in file MyPanel.py of class FamilieSimulatorHarness()************************** 2016-01-11 18:34:51 START ***************************
+
+ 2016-01-11 18:34:54:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+ 2016-01-11 18:35:03:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('4','d')
+ 2016-01-11 18:35:03:  INSERT Success!
+ 2016-01-11 18:35:04:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode byte 0x84 in position 2: incomplete multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 18:44:17 START ***************************
+
+ 2016-01-11 18:44:18:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 18:45:52 START ***************************
+
+ 2016-01-11 18:45:53:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 18:47:36 START ***************************
+
+ 2016-01-11 18:47:38:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 18:51:15 START ***************************
+
+ 2016-01-11 18:51:16:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 18:51:59 START ***************************
+
+ 2016-01-11 18:52:01:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 18:52:47 START ***************************
+
+ 2016-01-11 18:52:48:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 19:00:11 START ***************************
+
+ 2016-01-11 19:00:12:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 19:03:45 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-11 19:07:37 START ***************************
+
+ 2016-01-11 19:07:38:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 19:09:38 START ***************************
+
+ 2016-01-11 19:09:39:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 19:10:18 START ***************************
+
+ 2016-01-11 19:10:19:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'NoneType' object has no attribute 'decode'
+************************************* END **************************************
+************************** 2016-01-11 19:10:39 START ***************************
+
+ 2016-01-11 19:10:40:  Error:in file MyPanel.py of class FamilieSimulatorHarness(): method insert2List 'gbk' codec can't decode bytes in position 26-27: illegal multibyte sequence
+************************************* END **************************************
+************************** 2016-01-11 19:11:08 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-11 19:17:17 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-11 19:17:59 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-11 19:18:45 START ***************************
+
+ 2016-01-11 19:18:52:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode character u'\u597d' in position 63: ordinal not in range(256)
+ 2016-01-11 19:18:52:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 19:18:52:  Error:in file MySQLconn.py of class Mysql(): method update
+ 2016-01-11 19:18:52:  Error:in file MySQLconn.py of class ExecSQL():method editSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 648, in editXmlDialog
+    execsql.editSaveDataBut(list_id, str(getlistitemid[0]), getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 238, in editSaveDataBut
+    raise SQLconnError(self.err_text+"editSaveDataBut")
+SQLconnError
+
+ 2016-01-11 19:19:00:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('2','好')
+ 2016-01-11 19:19:00:  INSERT Success!
+************************************* END **************************************
+************************** 2016-01-11 19:21:01 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-11 19:24:48 START ***************************
+
+ 2016-01-11 19:24:52:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: 'latin-1' codec can't encode character u'\u597d' in position 63: ordinal not in range(256)
+ 2016-01-11 19:24:52:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2016-01-11 19:24:52:  Error:in file MySQLconn.py of class Mysql(): method update
+ 2016-01-11 19:24:52:  Error:in file MySQLconn.py of class ExecSQL():method editSaveDataButTraceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 648, in editXmlDialog
+    execsql.editSaveDataBut(list_id, str(getlistitemid[0]), getresult)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 239, in editSaveDataBut
+    raise SQLconnError(self.err_text+"editSaveDataBut")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-01-11 19:26:06 START ***************************
+
+ 2016-01-11 19:26:13:  UPDATE `familie_test_guorui`.`t_xml_conf` SET conf_response = '好1' WHERE conf_id = '117'
+ 2016-01-11 19:26:13:  UPDATE Success!
+************************************* END **************************************
+************************** 2016-01-11 19:42:35 START ***************************
+
+ 2016-01-11 19:42:50:  INSERT INTO `familie_test_guorui`.`t_xml_conf` (conf_url,conf_response) VALUES ('/device/48B1517B142C7/system/updateFirmware','<ResponseStatus version=”1.0” xmlns=”urn:skylight”>
+<statusCode><!-req.xs:string;详细见表2：IPC返回码定义--></statusCode>
+<statusString><!-req.xs:string;详细见表2：IPC返回码定义--></statusString>
+</ResponseStatus>')
+ 2016-01-11 19:42:50:  INSERT Success!
+************************************* END **************************************

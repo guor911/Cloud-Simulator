@@ -1,0 +1,78 @@
+************************** 2015-11-09 09:24:14 START ***************************
+
+ 2015-11-09 09:24:18:  Web Server Started.
+ 2015-11-09 09:24:20:  jpeg
+ 2015-11-09 09:24:24:  URL: /111
+ 2015-11-09 09:24:24:  REQUEST: 
+************************************* END **************************************
+************************** 2015-11-09 13:47:57 START ***************************
+
+ 2015-11-09 13:48:17:  Web Server Started.
+ 2015-11-09 13:48:19:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 13:48:19:  REQUEST: 
+************************************* END **************************************
+************************** 2015-11-09 16:17:18 START ***************************
+
+ 2015-11-09 16:17:31:  Web Server Started.
+ 2015-11-09 16:17:34:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:17:34:  REQUEST: <?xml version='1.0' encoding='utf-8' ?><appUserLogin version="1.0" xmlns="urn:skylight"><random>55419fdd9f7e86ac</random><passWord>e10adc3949ba59abbe56e057f20f883e</passWord><email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:17:34:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\' ?><appUserLogin version="1.0" xmlns="urn:skylight"><random\' at line 1')
+ 2015-11-09 16:17:34:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:17:34:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:18:02:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:18:02:  REQUEST: <?xml version='1.0' encoding='utf-8' ?><appUserLogin version= xmlns="urn:skylight"><random>55419fdd9f7e86ac</random><passWord>e10adc3949ba59abbe56e057f20f883e</passWord><email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:18:02:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\' ?><appUserLogin version= xmlns="urn:skylight"><random>5541\' at line 1')
+ 2015-11-09 16:18:02:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:18:02:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:18:03:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:18:03:  REQUEST: <?xml version='1.0' encoding='utf-8' ?><appUserLogin version= xmlns="urn:skylight"><random>55419fdd9f7e86ac</random><passWord>e10adc3949ba59abbe56e057f20f883e</passWord><email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:18:03:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\' ?><appUserLogin version= xmlns="urn:skylight"><random>5541\' at line 1')
+ 2015-11-09 16:18:03:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:18:03:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:18:16:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:18:16:  REQUEST: <?xml version='1.0' encoding='utf-8' ?><appUserLogin version= 1xmlns="urn:skylight"><random>55419fdd9f7e86ac</random><passWord>e10adc3949ba59abbe56e057f20f883e</passWord><email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:18:16:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\' ?><appUserLogin version= 1xmlns="urn:skylight"><random>554\' at line 1')
+ 2015-11-09 16:18:16:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:18:16:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:18:36:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:18:36:  REQUEST: <?xml version='1.0' encoding='utf-8' ?>
+<appUserLogin version= "1.0"xmlns="urn:skylight"><random>55419fdd9f7e86ac</random><passWord>e10adc3949ba59abbe56e057f20f883e</passWord><email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:18:36:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\' ?>\n<appUserLogin version= "1.0"xmlns="urn:skylight"><rando\' at li************************** 2015-11-09 16:25:26 START ***************************
+
+ 2015-11-09 16:25:29:  Web Server Started.
+ 2015-11-09 16:25:31:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:25:31:  REQUEST: <?xml version='1.0' encoding='utf-8'?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<random>55419fdd9f7e86ac</random>
+<passWord>e10adc3949ba59abbe56e057f20f883e</passWord>
+<email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:25:31:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\'?>\n<appUserLogin version="1.0" xmlns="urn:skylight">\n<rando\' at line 1')
+ 2015-11-09 16:25:31:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:25:31:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:26:08:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:26:08:  REQUEST: <?xml version='1.0' encoding='utf-8'?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<random>55419fdd9f7e86ac</random>
+<passWord>e10adc3949ba59abbe56e057f20f883e</passWord>
+<email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:26:09:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\'?>\n<appUserLogin version="1.0" xmlns="urn:skylight">\n<rando\' at line 1')
+ 2015-11-09 16:26:09:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:26:09:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:26:29:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:26:29:  REQUEST: <?xml version='1.0' encoding='utf-8'?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<random>55419fdd9f7e86ac</random>
+<passWord>e10adc3949ba59abbe56e057f20f883e</passWord>
+<email>user1@163.com</email></appUserLogin>
+ 2015-11-09 16:26:29:  Error:in file MySQLconn.py of class Mysql(): method query sql execute error: (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1.0\' encoding=\'utf-8\'?>\n<appUserLogin version="1.0" xmlns="urn:skylight">\n<rando\' at line 1')
+ 2015-11-09 16:26:29:  Error:in file MySQLconn.py of class Mysql(): method query
+ 2015-11-09 16:26:29:  Error:in file MySQLconn.py of class ExecSQL():method insertXML2DB
+ 2015-11-09 16:26:34:  URL: /skl-cloud/app/Security/AAA/users/userGet
+ 2015-11-09 16:26:34:  REQUEST: <appUserLogin version="1.0" xmlns="urn:skylight">
+<random>55419fdd9f7e86ac</random>
+<passWord>e10adc3949ba59abbe56e057f20f883e</passWord>
+<email>user1@163.com</email></appUserLogin>
+************************************* END **************************************
+************************** 2015-11-09 16:48:01 START ***************************
+
+************************************* END **************************************

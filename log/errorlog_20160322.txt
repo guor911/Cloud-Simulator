@@ -1,0 +1,16 @@
+************************** 2016-03-22 09:52:01 START ***************************
+
+ 2016-03-22 09:54:13:  Mysql Error 2003: Can't connect to MySQL server on '127.0.0.1' (10061)
+ 2016-03-22 09:54:13:  Error:in file MySQLconn.py of class Mysql(): method __init__ MySQLdb.connect
+ 2016-03-22 09:54:13:  Error:in file MySQLconn.py of class ExecSQL():method __init__Traceback (most recent call last):
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MyPanel.py", line 269, in searchUrlInfo
+    execsql = ExecSQL(self.PrintEventLog)
+  File "D:\PyProject\FamilieSimulatortool\Familie-Simulator-Harness_0.5\MySQLconn.py", line 168, in __init__
+    raise SQLconnError(self.err_text+"__init__")
+SQLconnError
+
+************************************* END **************************************
+************************** 2016-03-22 10:28:58 START ***************************
+
+ 2016-03-22 10:29:01:  Web Server Started.
+************************************* END **************************************

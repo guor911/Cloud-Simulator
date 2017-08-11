@@ -1,0 +1,26 @@
+************************** 2015-11-19 11:36:53 START ***************************
+
+ 2015-11-19 11:36:55:  Web Server Started.
+ 2015-11-19 11:40:54:  URL: /sklcloud/skl-cloud/app/Security/AAA/users/userId
+ 2015-11-19 11:40:54:  REQUEST: <?xml version="1.0"?>
+<appUserLogin><random>5a55474456474943534b4f414941484a</random><email>user1@163.com</email><passWord>e10adc3949ba59abbe56e057f20f883e</passWord></appUserLogin>
+
+ 2015-11-19 11:40:54:  URL: /sklcloud/skl-cloud/app/Security/AAA/users/heartBeat
+ 2015-11-19 11:40:54:  REQUEST: <appHeartBeat>
+<userId>357</userId><random>6F7G8H1A2B3C4D5E</random>
+</appHeartBeat>
+ 2015-11-19 11:41:05:  URL: /sklcloud/skl-cloud/app/Security/AAA/users/info
+ 2015-11-19 11:41:05:  URL: /sklcloud/skl-cloud/app/Security/AAA/users/notification
+ 2015-11-19 11:43:59:  Web Server Stoped.
+************************************* END **************************************
+************************** 2015-11-19 11:47:32 START ***************************
+
+************************************* END **************************************
+************************** 2015-11-19 11:47:38 START ***************************
+
+ 2015-11-19 11:47:40:  Web Server Started.
+ 2015-11-19 11:47:43:  URL: /sklcloud/skl-cloud/app/Security/AAA/users/userId
+ 2015-11-19 11:47:43:  REQUEST: <?xml version='1.0' encoding='utf-8' ?>
+<appUserLogin version="1.0" xmlns="urn:skylight"><random>589838c71e9b0a11</random><passWord>e10adc3949ba59abbe56e057f20f883e</passWord><email>licai@163.com</email></appUserLogin>
+ 2015-11-19 11:48:27:  Web Server Stoped.
+************************************* END **************************************

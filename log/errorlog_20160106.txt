@@ -1,0 +1,166 @@
+************************** 2016-01-06 10:24:45 START ***************************
+
+ 2016-01-06 10:24:48:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 10:26:06 START ***************************
+
+ 2016-01-06 10:26:08:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 10:33:46 START ***************************
+
+ 2016-01-06 10:33:48:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 11:00:40 START ***************************
+
+ 2016-01-06 11:00:41:  Web Server Started.
+ 2016-01-06 11:00:45:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-06 11:02:07 START ***************************
+
+ 2016-01-06 11:02:08:  Web Server Started.
+ 2016-01-06 11:02:34:  URL: /
+ 2016-01-06 11:02:36:  URL: /favicon.ico
+ 2016-01-06 11:02:36:  URL: /favicon.ico
+ 2016-01-06 11:02:54:  URL: /
+ 2016-01-06 11:06:39:  Web Server Stoped.
+ 2016-01-06 11:06:46:  Web Server Started.
+ 2016-01-06 11:08:23:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:30:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:30:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:45:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:45:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:49:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:49:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:50:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:50:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:50:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:50:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:51:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:51:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:52:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:52:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:53:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:53:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:54:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:54:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:55:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:55:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:55:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:55:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:56:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:56:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:57:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:57:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:58:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:58:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+ 2016-01-06 11:08:59:  URL: /skl-cloud/app/Security/AAA/users/userId
+ 2016-01-06 11:08:59:  REQUEST: <?xml version="1.0" encoding="utf-8"?>
+<appUserLogin version="1.0" xmlns="urn:skylight">
+<email>superman@sky-light.com.hk</email>
+<passWord>Honor is my life</passWord>
+<random>1A2B3C4D5E6F7G8H</random>
+</appUserLogin>
+************************************* END **************************************
+************************** 2016-01-06 11:56:02 START ***************************
+
+ 2016-01-06 11:56:03:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 11:58:14 START ***************************
+
+ 2016-01-06 11:58:16:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 12:07:52 START ***************************
+
+ 2016-01-06 12:07:53:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 12:07:13 START ***************************
+
+ 2016-01-06 12:07:15:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 12:08:03 START ***************************
+
+ 2016-01-06 12:08:04:  Web Server Started.
+************************************* END **************************************
+************************** 2016-01-06 12:08:18 START ***************************
+
+ 2016-01-06 12:08:19:  Web Server Started.
+ 2016-01-06 12:08:22:  Web Server Stoped.
+************************************* END **************************************
+************************** 2016-01-06 14:05:32 START ***************************
+
+************************************* END **************************************
+************************** 2016-01-06 14:05:39 START ***************************
+
+ 2016-01-06 14:05:40:  Web Server Started.
+ 2016-01-06 14:05:44:  Web Server Stoped.
+************************************* END **************************************
